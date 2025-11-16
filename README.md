@@ -1,4 +1,4 @@
-# Hi there 👋
+# About me 👀
 
 As a DevOps Engineer, I deal primarily with DevOps practices, designing and managing CI/CD pipelines across multiple systems to ensure rapid and automated software deployment. In my current role, I develop and design IaC solutions for provisioning AWS resources, adopting best practices for multi-account environments. My path is supported by three 
 Google Cloud certifications. I face challenges with determination, I am curious and sincerely **passionate about technology**. 
@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Cloud computing**
 
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-## Tech skills
 **DevOps/SRE**
 
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
@@ -29,12 +31,6 @@ Here are some ideas to get you started:
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-
-
-**Cloud computing**
-
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
 **Programming**
 
